@@ -1,4 +1,4 @@
-# tp8 2022
+# tp 2022
 Desarrollo trabajo practico de taller de lenguaje 1
 
 **OBJETIVOS**
